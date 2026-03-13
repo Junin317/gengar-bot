@@ -22,7 +22,7 @@ const client = new Client({
   authStrategy: new LocalAuth(),
 puppeteer: {
   headless: true,
- executablePath: process.env.CHROMIUM_PATH || '/usr/bin/chromium-browser' || '/usr/bin/chromium',
+executablePath: process.env.PUPPETEER_EXECUTABLE_PATH,
   args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage', '--disable-gpu']
 }
 })

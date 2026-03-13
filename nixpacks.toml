@@ -2,6 +2,5 @@
 nixPkgs = ["chromium"]
 
 [variables]
-CHROMIUM_PATH = "/run/current-system/sw/bin/chromium"
 PUPPETEER_SKIP_CHROMIUM_DOWNLOAD = "true"
-PUPPETEER_EXECUTABLE_PATH = "/run/current-system/sw/bin/chromium"
+PUPPETEER_EXECUTABLE_PATH = "/nix/var/nix/profiles/default/bin/chromium"
