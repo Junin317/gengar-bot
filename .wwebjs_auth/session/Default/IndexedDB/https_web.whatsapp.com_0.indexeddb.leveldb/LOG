@@ -1,0 +1,62 @@
+2026/03/12-22:51:23.288 316c Reusing MANIFEST C:\Users\Junin\Desktop\Whatsapp-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/12-22:51:23.295 316c Recovering log #125
+2026/03/12-22:51:23.301 316c Reusing old log C:\Users\Junin\Desktop\Whatsapp-Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000125.log 
+2026/03/12-22:51:29.312 316c Level-0 table #132: started
+2026/03/12-22:51:29.338 316c Level-0 table #132: 1348096 bytes OK
+2026/03/12-22:51:29.339 316c Delete type=0 #125
+2026/03/12-22:51:29.339 1c70 Compacting 1@1 + 3@2 files
+2026/03/12-22:51:29.396 1c70 Generated table #133@1: 82886 keys, 2231370 bytes
+2026/03/12-22:51:29.436 1c70 Generated table #134@1: 29691 keys, 2276133 bytes
+2026/03/12-22:51:29.487 1c70 Generated table #135@1: 40290 keys, 2209456 bytes
+2026/03/12-22:51:29.497 1c70 Generated table #136@1: 8867 keys, 282041 bytes
+2026/03/12-22:51:29.497 1c70 Compacted 1@1 + 3@2 files => 6999000 bytes
+2026/03/12-22:51:29.498 1c70 compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/03/12-22:51:29.498 1c70 Delete type=2 #127
+2026/03/12-22:51:29.498 1c70 Delete type=2 #128
+2026/03/12-22:51:29.498 1c70 Delete type=2 #129
+2026/03/12-22:51:29.498 1c70 Delete type=2 #132
+2026/03/12-22:51:31.035 316c Level-0 table #138: started
+2026/03/12-22:51:31.055 316c Level-0 table #138: 924766 bytes OK
+2026/03/12-22:51:31.056 316c Delete type=0 #131
+2026/03/12-22:51:32.115 1c70 Compacting 1@1 + 4@2 files
+2026/03/12-22:51:32.171 1c70 Generated table #139@1: 86004 keys, 2235481 bytes
+2026/03/12-22:51:32.205 1c70 Generated table #140@1: 22951 keys, 2269693 bytes
+2026/03/12-22:51:32.256 1c70 Generated table #141@1: 46551 keys, 2214957 bytes
+2026/03/12-22:51:32.261 1c70 Generated table #142@1: 3259 keys, 165116 bytes
+2026/03/12-22:51:32.261 1c70 Compacted 1@1 + 4@2 files => 6885247 bytes
+2026/03/12-22:51:32.262 1c70 compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/03/12-22:51:32.262 1c70 Delete type=2 #133
+2026/03/12-22:51:32.262 1c70 Delete type=2 #134
+2026/03/12-22:51:32.262 1c70 Delete type=2 #135
+2026/03/12-22:51:32.262 1c70 Delete type=2 #136
+2026/03/12-22:51:32.262 1c70 Delete type=2 #138
+2026/03/12-22:58:49.381 316c Level-0 table #144: started
+2026/03/12-22:58:49.401 316c Level-0 table #144: 1408718 bytes OK
+2026/03/12-22:58:49.402 316c Delete type=0 #137
+2026/03/12-22:58:50.045 316c Compacting 1@1 + 4@2 files
+2026/03/12-22:58:50.094 316c Generated table #145@1: 85949 keys, 2234265 bytes
+2026/03/12-22:58:50.129 316c Generated table #146@1: 25313 keys, 2276126 bytes
+2026/03/12-22:58:50.175 316c Generated table #147@1: 40418 keys, 2208702 bytes
+2026/03/12-22:58:50.183 316c Generated table #148@1: 10384 keys, 313912 bytes
+2026/03/12-22:58:50.183 316c Compacted 1@1 + 4@2 files => 7033005 bytes
+2026/03/12-22:58:50.184 316c compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/03/12-22:58:50.184 316c Delete type=2 #139
+2026/03/12-22:58:50.184 316c Delete type=2 #140
+2026/03/12-22:58:50.184 316c Delete type=2 #141
+2026/03/12-22:58:50.184 316c Delete type=2 #142
+2026/03/12-22:58:50.184 316c Delete type=2 #144
+2026/03/12-23:10:08.765 316c Level-0 table #150: started
+2026/03/12-23:10:08.784 316c Level-0 table #150: 1470381 bytes OK
+2026/03/12-23:10:08.785 316c Delete type=0 #143
+2026/03/12-23:10:09.038 316c Compacting 1@1 + 4@2 files
+2026/03/12-23:10:09.102 316c Generated table #151@1: 86190 keys, 2234598 bytes
+2026/03/12-23:10:09.150 316c Generated table #152@1: 27674 keys, 2283183 bytes
+2026/03/12-23:10:09.208 316c Generated table #153@1: 29960 keys, 2195796 bytes
+2026/03/12-23:10:09.230 316c Generated table #154@1: 21746 keys, 551922 bytes
+2026/03/12-23:10:09.230 316c Compacted 1@1 + 4@2 files => 7265499 bytes
+2026/03/12-23:10:09.231 316c compacted to: files[ 0 0 4 0 0 0 0 ]
+2026/03/12-23:10:09.231 316c Delete type=2 #145
+2026/03/12-23:10:09.231 316c Delete type=2 #146
+2026/03/12-23:10:09.231 316c Delete type=2 #147
+2026/03/12-23:10:09.231 316c Delete type=2 #148
+2026/03/12-23:10:09.231 316c Delete type=2 #150

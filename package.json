@@ -1,0 +1,14 @@
+{
+  "name": "𝕲𝖊𝖓𝖌𝖆𝖗-𝖇𝖔𝖙",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "latest",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.5",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
